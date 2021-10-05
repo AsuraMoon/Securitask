@@ -1,0 +1,27 @@
+{
+    "name": "vue-flashcard",
+    "version": "1.1.6",
+    "description": "Flashcard component for vuejs 2 💡",
+    "main": "flashcard.vue",
+    "scripts": {
+        "test": "echo HELLO",
+        "preinstall": "echo ._THANKS YOU 😀_. Github : https://github.com/cuduy197/vue-flashcard"
+    },
+    "keywords": [
+        "vuejs2",
+        "Vuejs",
+        "flashcard",
+        "component",
+        "vue component"
+    ],
+    "author": "cuduy197",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/cuduy197/vue-flashcard.git"
+    },
+    "bugs": {
+        "url": "https://github.com/cuduy197/vue-flashcard/issues"
+    },
+    "homepage": "https://github.com/cuduy197/vue-flashcard#readme"
+}
