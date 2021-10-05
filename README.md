@@ -1,5 +1,7 @@
 # greta_secu_app
 
+WPA for educative project with reverse card
+
 ## Project setup
 ```
 npm install
